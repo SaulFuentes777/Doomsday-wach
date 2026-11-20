@@ -1,0 +1,65 @@
+{
+  "checkedAt": null,
+  "monitor": {
+    "released": false,
+    "trailer": null
+  },
+  "official": [
+    {
+      "id": "seed-sphere",
+      "title": "Doctor Doom ilumina la Sphere de Las Vegas",
+      "kind": "VIDEO PROMOCIONAL",
+      "description": "Marvel mostró símbolos de Avengers, X-Men y Cuatro Fantásticos en la Sphere. No es el tráiler final.",
+      "published": "2026-11-19T18:00:00Z",
+      "url": "https://x.com/MarvelStudios/status/2123476968406728974"
+    },
+    {
+      "id": "seed-posters",
+      "title": "Nueva colección de 11 pósteres",
+      "kind": "PÓSTERES",
+      "description": "Imágenes de los personajes reveladas el 18 de noviembre.",
+      "published": "2026-11-18T19:00:00Z",
+      "url": "https://x.com/MarvelStudios/status/2123114012657295484",
+      "image": "https://images.thedirect.com/media/photos/DoomsdayTeamPoster7.jpg"
+    },
+    {
+      "id": "seed-return",
+      "title": "The Return: Robert Downey Jr.",
+      "kind": "VIDEO DETRÁS DE CÁMARAS",
+      "description": "Promocional oficial de Marvel Entertainment, no tráiler completo.",
+      "published": "2026-11-18T18:00:00Z",
+      "url": "https://www.youtube.com/watch?v=Fg0jyss_YnU",
+      "image": "https://i.ytimg.com/vi/Fg0jyss_YnU/hqdefault.jpg"
+    }
+  ],
+  "rumors": [
+    {
+      "id": "seed-doblaje",
+      "title": "¿El doblaje retrasa el próximo tráiler?",
+      "kind": "RUMOR",
+      "description": "Versiones contradictorias de informantes. Marvel no ha confirmado el supuesto retraso.",
+      "published": "2026-11-19T17:00:00Z",
+      "url": "https://www.9to5marvel.com/when-is-the-next-avengers-doomsday-trailer/"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "seed-doom",
+      "title": "Póster de Doctor Doom",
+      "kind": "PÓSTER",
+      "description": "Imagen difundida junto a la colección del 18 de noviembre.",
+      "published": "2026-11-18T19:00:00Z",
+      "url": "https://x.com/MarvelStudios/status/2123114012657295484",
+      "image": "https://images.thedirect.com/media/photos/DoomsdayTeamPoster7.jpg"
+    },
+    {
+      "id": "seed-loki",
+      "title": "Póster de Loki y Mystique",
+      "kind": "PÓSTER",
+      "description": "Imagen de la colección del 18 de noviembre.",
+      "published": "2026-11-18T19:00:00Z",
+      "url": "https://x.com/MarvelStudios/status/2123114012657295484",
+      "image": "https://images.thedirect.com/media/photos/DoomsdayTeamPoster8.jpg"
+    }
+  ]
+}
