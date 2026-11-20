@@ -1,1 +1,18 @@
-{"name":"Doomsday Watch","short_name":"Doomsday","start_url":"./","scope":"./","display":"standalone","background_color":"#09120d","theme_color":"#09120d","icons":[{"src":"icon.svg","type":"image/svg+xml","sizes":"any"}]}
+{
+  "name": "Doomsday Watch",
+  "short_name": "Doomsday",
+  "description": "Novedades y rumores de Avengers: Doomsday",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07120b",
+  "theme_color": "#07120b",
+  "icons": [
+    {
+      "src": "./assets/doom-app-icon.png?v=2",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
